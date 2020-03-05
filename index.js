@@ -1,5 +1,4 @@
 var WebSocket = require('ws');
-var sqlite = require('sqlite3');
 
 var port = process.env.PORT || 3000;
 
